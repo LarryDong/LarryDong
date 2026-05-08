@@ -8,7 +8,7 @@
 Wish you a happy day~
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryDong)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LarryDong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 备份链接
